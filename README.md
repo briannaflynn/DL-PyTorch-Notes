@@ -3,7 +3,8 @@ Notes from diving deep into implementing PyTorch for Deep Learning: General Conc
 
 Goes over:
 
-- Why good initialization matters - and why we want activations to have a mean close to 0 and a standard deviation close to 1.
+- Why good initialization matters - and why we want activations to have a mean close to 0 and a standard deviation close to 1
+- Variance, Standard Deviation, and Mean Absolute Deviation - when to use each and why
 - Activation explosion
 - Basic training loop
 - Convolutions
