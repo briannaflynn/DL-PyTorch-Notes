@@ -1,5 +1,5 @@
 # DL-PyTorch-Notes
-Notes from diving deep into implementing Numpy, and PyTorch for Deep Learning: General Concepts with Code Examples
+Notes from diving deep into implementing PyTorch for Deep Learning: General Concepts with Code Examples
 
 Goes over:
 
